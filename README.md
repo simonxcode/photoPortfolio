@@ -6,7 +6,7 @@ All images were taken by me to showcase my love for photography.
 Site is live at: https://simonxcode.github.io/photoPortfolio/
 
 
-<a href="test">Test</a>
+<a href="#test">Test</a>
 ##
 ##
 ##
@@ -27,4 +27,4 @@ Site is live at: https://simonxcode.github.io/photoPortfolio/
 ##
 ##
 ##
-## <h2 href="test">test<h2>
+## <h2 href="#test">test<h2>
